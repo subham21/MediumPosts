@@ -13,7 +13,7 @@ LogIN Screen
 
 Home Screen
 
-![ScreenShot1](Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.02.png)
+![ScreenShot1](Simulator-ScreenShot-iPhone8-2019-08-01at-17.01.02.png)
 
 
 Home Screen with search Results
