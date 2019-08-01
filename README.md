@@ -5,3 +5,17 @@ Check out my posts at [medium.com/@enricopiovesan](https://medium.com/@enricopio
 ![posts](https://cdn-images-1.medium.com/max/800/1*eJDM-QO1fN4gV5gU85ldcA.gif)
 
 Those are the posts you're looking for.
+
+
+LogIN Screen
+
+![ScreenShot1](Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.35.png)
+
+Home Screen
+
+![ScreenShot1](Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.02.png)
+
+
+Home Screen with search Results
+
+![ScreenShot1](Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.24.png)
