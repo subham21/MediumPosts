@@ -9,13 +9,13 @@ Those are the posts you're looking for.
 
 LogIN Screen
 
-![ScreenShot1](ARC/Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.35.png)
+![ScreenShot1](sketchs/Simulator-ScreenShot-iPhone8-2019-08-01at-17.00.35.png)
 
 Home Screen
 
-![ScreenShot1](ARC/Simulator-ScreenShot-iPhone8-2019-08-01at-17.01.02.png)
+![ScreenShot1](sketchs/Simulator-ScreenShot-iPhone8-2019-08-01at-17.01.02.png)
 
 
 Home Screen with search Results
 
-![ScreenShot1](ARC/Simulator-ScreenShot-iPhone8-2019-08-01at-17.01.24.png)
+![ScreenShot1](sketchs/Simulator-ScreenShot-iPhone8-2019-08-01at-17.01.24.png)
